@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/markdown-paste
+bye bye microsoft. please visit https://git.osuv.de/m/markdown-paste
